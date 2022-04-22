@@ -1,0 +1,6 @@
+/.env
+/yarn.lock
+node_modules
+/client/node_modules
+/client/build
+/rotate
